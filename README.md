@@ -1,4 +1,4 @@
-# PIR Motion Detection & I2C LCD Display 
+# PIR Motion Detection with I2C LCD Display 
 
 ##  Description  
 This project uses a PIR (Passive Infrared) motion sensor connected to an Arduino to detect movement. When motion is detected, the system displays a message on a 16x2 I2C LCD screen. It’s a basic project for beginners and can be extended later with more features.
